@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+    <head>
+        <title>About Me</title>
+        <style>
+            p {
+                color: green;
+                font-size: 20px;
+                width: 200px;
+                }
+
+            h1 {
+                color: forestgreen;
+                font-size: 48px;
+                text-align: center;
+                }
+
+            ul {
+                color:blue;
+               }
+
+            ol {
+                color: mediumvioletred;
+               }
+            #huh {color:red;}
+
+            .blue {
+                color:aqua;
+                }
+        </style>
+    </head>
+    
+    <body>
+        <h1>Who is Christian Kühne</h1>
+        <h2>And why should you hire him?</h2> <br>
+        <p>Hi, my name is Christian Philipp Maximilian Kühne</p>
+        <br>
+        <p>I am a beginner in cyber security, software & game development and Data Analysis. I recently finished my Master's degree in <b>Asian Studies</b>, with a focus on <b>Chinese Languange and Translation</b>. 
+            During Covid, when everything went online, I used my newly-gained freetime to start a second bachelor's degree in a hybrid between Computer Science and Economics. 
+            Earlier this year, I decided to start some courses on Coursera that interest me, and by July i finished them all in parallel.</p>
+        <p class="blue">why doesnt browsersync work?</p>
+        <p id="huh">maybe it works now?</p>
+        <br>
+        <ul>
+            <li>Milk</li>
+            <li>Donuts</li>
+            <li>Cookies</li>
+            <ul>
+                <li>chocolate</li>
+                <li>cranberry</li>
+                <li>oreo</li>
+            </ul>
+            <li>Sausage</li>
+            <li>Bananas</li>
+            <li>Milk</li>
+        </ul>
+        <ol>
+            <li>open the jar</li>
+            <li>take a knife</li>
+            <li>stick the tip of the knife inside the jar</li>
+            <li>lift out the knife with peanut butter on it</li>
+            <li>spread the peanut butter on the bread</li>
+            <li>eat the peanut butter sandwich</li>
+        </ol>
+    </body>
+</html>
